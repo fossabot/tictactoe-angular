@@ -2,6 +2,8 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f260515736a4222af43ec9a708d1301)](https://app.codacy.com/gh/fgsoftware1/tictactoe-angular?utm_source=github.com&utm_medium=referral&utm_content=fgsoftware1/tictactoe-angular&utm_campaign=Badge_Grade_Settings)
 
+[![Build Status](https://travis-ci.com/fgsoftware1/tictactoe-angular.svg?branch=master)](https://travis-ci.com/fgsoftware1/tictactoe-angular)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
 ## Development server
