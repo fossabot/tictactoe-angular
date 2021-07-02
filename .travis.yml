@@ -2,6 +2,6 @@ os: linux
 dist: bionic
 language: generic
 env:
-  - CODACY_PROJECT_TOKEN=9a6ad026f80f4b8e8047fb617ec63e2a
+  - CODACY_PROJECT_TOKEN=71fa15314d644b95a9acda57768469b1
 after_sucess:
   - bash <(curl -Ls https://coverage.codacy.com/get.sh) report -r coverage/lcov.info
